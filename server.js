@@ -7,7 +7,7 @@ async function main() {
 
   while(true) {
     console.log('Containers rule!');
-    console.log(`My favorite food is ${favoriteFood}`);
+    console.log(`My favorite junkfood is ${favoriteFood}`);
     await sleep(5000);
   }
 }
